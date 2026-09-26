@@ -1,0 +1,4 @@
+STARK WORLD VOICE MAX - definitive fixed build
+
+Use this archive, not an older STARK_WORLD_VOICE_MAX_FIXED folder.
+The energyDisplay initialization is placed before all callbacks that reference it.

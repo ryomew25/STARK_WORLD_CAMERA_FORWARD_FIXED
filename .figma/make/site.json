@@ -1,0 +1,10 @@
+{
+  "description": "Experience a premium interactive 3D spatial interface designed for seamless navigation and object interaction, enhancing productivity and user engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
